@@ -1,0 +1,39 @@
+project:
+  type: website
+  preview:
+    port: 4101
+    browser: false
+
+website:
+  title: STATIC
+  description: cullaloe.net
+  favicon: images/avatar.png
+  google-analytics: G-YX45X35ZM7
+  navbar:
+    title: "Static sites and resources"
+    logo: images/avatar.png
+    background: snow
+    right: 
+      - icon: github
+        href: https://github.com/NixImagery
+      - icon: instagram
+        href: https://www.instagram.com/niximagery/
+      - icon: twitter 
+        href: https://twitter.com/NixImagery
+  page-footer: 
+    left: "Copyright 2023, Nick Hood" 
+    background: light
+    right: 
+      - icon: github
+        href: https://github.com/NixImagery
+      - icon: instagram
+        href: https://www.instagram.com/niximagery/
+      - icon: twitter 
+        href: https://twitter.com/NixImagery
+
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    toc: false

@@ -1,0 +1,28 @@
+---
+title: STATIC
+subtitle: cullaloe.net
+author: 
+    name: Nick Hood FInstP FRSA MRAeS CSci CPhys
+    affiliation: University of Edinburgh
+    orcid: 0000-0001-7891-9736
+date: last-modified
+cap-location: bottom
+---
+
+---
+
+
+::: {#fig-1 layout-ncol=4}
+
+[![PGDE PHYSICS](images/avatar.png)](https://static.cullaloe.net/PGDEPhysics)
+
+[![PGDE PRIMARY SCIENCE](images/PBSQ.jpg)](https://static.cullaloe.net/PGDEPrimary)
+
+[![RESEARCH/WRITING](images/desktop.JPG)](https://static.cullaloe.net/Research)
+
+[![CLIL PAPER](images/clil.png)](https://static.cullaloe.net/clil-paper-23)
+
+For students, staff and supervisors, these websites and resources require a login to access them.
+:::
+
+---
