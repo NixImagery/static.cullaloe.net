@@ -20,9 +20,11 @@ cap-location: bottom
 
 [![RESEARCH/WRITING](images/desktop.JPG)](https://static.cullaloe.net/Research)
 
-[![CLIL PAPER](images/clil.png)](https://static.cullaloe.net/clil-paper-23)
+![CLIL PAPER](images/clil.png "The CLIL paper has been parked for now (November 2023).")
+<!-- (https://static.cullaloe.net/clil-paper-23) -->
 
-For students, staff and supervisors, these websites and resources require a login to access them.
+For students, staff and supervisors, these websites and resources require a login to access them. 
 :::
+
 
 ---
