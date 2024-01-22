@@ -2,7 +2,7 @@
 title: STATIC
 subtitle: cullaloe.net
 author: 
-    name: Nick Hood FInstP FRSA MRAeS CSci CPhys
+    name: Nick Hood FInstP MRAeS
     affiliation: University of Edinburgh
     orcid: 0000-0001-7891-9736
 date: last-modified
