@@ -8,6 +8,7 @@ website:
   title: STATIC
   description: cullaloe.net
   favicon: images/avatar.png
+  search: false
   navbar:
     title: "Static sites and resources"
     logo: images/avatar.png
