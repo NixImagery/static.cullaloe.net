@@ -12,7 +12,7 @@ cap-location: bottom
 ---
 
 
-::: {#fig-1 layout-ncol=4}
+::: {#fig-1 layout="[25,25,25,25]"}
 
 [![PGDE PHYSICS](images/avatar.png)](https://static.cullaloe.net/PGDEPhysics)
 
@@ -20,10 +20,9 @@ cap-location: bottom
 
 [![RESEARCH/WRITING](images/desktop.JPG)](https://static.cullaloe.net/Research)
 
-![CLIL PAPER](images/clil.png "The CLIL paper has been parked for now (November 2023).")
-<!-- (https://static.cullaloe.net/clil-paper-23) -->
+[![back to the portal](images/anarchy.gif){width=160}](https://cullaloe.net)
 
-For students, staff and supervisors, these websites and resources require a login to access them. 
+For students, staff and supervisors, these websites and resources may require a login to access them. 
 :::
 
 
