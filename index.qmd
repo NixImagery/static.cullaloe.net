@@ -5,18 +5,16 @@ author:
     name: Nick Hood FInstP MRAeS
     affiliation: University of Edinburgh
     orcid: 0000-0001-7891-9736
-date: last-modified
+# date: last-modified
 cap-location: bottom
 ---
 
 ---
 
 
-::: {#fig-1 layout="[25,25,25,25]"}
+::: {#fig-1 layout="[30,30,30]"}
 
 [![PGDE PHYSICS](images/avatar.png)](https://static.cullaloe.net/PGDEPhysics)
-
-[![PGDE PRIMARY SCIENCE](images/PBSQ.jpg)](https://static.cullaloe.net/PGDEPrimary)
 
 [![RESEARCH/WRITING](images/desktop.JPG)](https://static.cullaloe.net/Research)
 
