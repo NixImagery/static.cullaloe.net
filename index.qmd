@@ -14,13 +14,13 @@ cap-location: bottom
 
 ::: {#fig-1 layout="[30,30,30]"}
 
-[![PGDE PHYSICS](images/avatar.png)](https://static.cullaloe.net/PGDEPhysics)
+[![PGDE PHYSICS\*](images/avatar.png)](https://static.cullaloe.net/PGDEPhysics)
 
-[![RESEARCH/WRITING](images/desktop.JPG)](https://static.cullaloe.net/Research)
+[![RESEARCH/WRITING\*](images/desktop.JPG)](https://static.cullaloe.net/Research)
 
-[![back to the portal](images/anarchy.gif){width=160}](https://cullaloe.net)
+[![cullaloe.net](images/anarchy.gif){width=160}](https://cullaloe.net)
 
-For students, staff and supervisors, these websites and resources may require a login to access them. 
+\* these websites and resources may require a login to access them. 
 :::
 
 
